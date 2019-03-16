@@ -69,7 +69,7 @@ paascloud:
       tokenStore: jwt
   alipay:
     callback:
-      url: http://api.paascloud.net/omc/pay/alipayCallback
+      url: http://api.dading.nat300.top/omc/pay/alipayCallback
     qrCode:
       pcPath: /QRCode
       qiniuPath: alipay/QRCode/
